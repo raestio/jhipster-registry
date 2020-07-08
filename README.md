@@ -28,3 +28,4 @@ To run the cloned repository;
 [azure-devops-url-main]: https://dev.azure.com/jhipster/jhipster-registry/_build
 [travis-image]: https://travis-ci.org/jhipster/jhipster-registry.svg?branch=master
 [travis-url]: https://travis-ci.org/jhipster/jhipster-registry
+t
